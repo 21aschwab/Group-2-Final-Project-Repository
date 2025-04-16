@@ -21,7 +21,8 @@ Canvas Group #: 2
 Dataset Links
     Andrew's Dataset: This is a dataset showing fire incidents among the neighborhoods in the city of Pittsburgh.
         https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
-    Kendall's Dataset:
+    Kendall's Dataset: Shows the land pollution from the Toxics Release Inventory in Allegheny County.
+        https://data.wprdc.org/dataset/toxic-release-inventory
     Shiv's Dataset:
     Zacariah's Dataset:
 
