@@ -12,7 +12,7 @@ Team Members + Emails:
 
 
 Andrew's Notebook: Fire Frequency
-Kendall's Notebook: 
+Kendall's Notebook: Toxic Land Pollution
 Shiv's Notebook:
 Zacariah's Notebook
 
