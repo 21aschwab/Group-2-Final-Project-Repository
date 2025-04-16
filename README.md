@@ -6,6 +6,7 @@ Team Name: TeamTwo
 
 Team Members + Emails:
     Andrew Schwab: ars322@pitt.edu
+    Shiv Shah: shs611@pitt.edu
 
 Canvas Group #: 
 
