@@ -8,12 +8,14 @@ Team Members + Emails:
     Andrew Schwab: ars322@pitt.edu
     Shiv Shah: shs611@pitt.edu
     Kendall Foy: kjf56@pitt.edu
+    Zachariah Jonassaint: zcj9@pitt.edu
 
 Canvas Group #: 
 
 Dataset Links
     Andrew's Dataset: This is a dataset showing fire incidents among the neighborhoods in the city of Pittsburgh.
         https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
+    Zachariah's Dataset: https://data.wprdc.org/dataset/allegheny-county-overdose-deaths
 
 
 
